@@ -1,0 +1,245 @@
+[
+    {
+        "company": "Bosch",
+        "testimonial": {
+            "name": "Claus Giehl",
+            "title": "Unknown Title",
+            "company": "Bosch",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/bosch.html"
+        }
+    },
+    {
+        "company": "IMDEX",
+        "testimonial": {
+            "name": "Sameera Bandara",
+            "title": "Information Security Manager",
+            "company": "IMDEX",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/imdex.html"
+        }
+    },
+    {
+        "company": "Slack",
+        "testimonial": {
+            "name": "Larkin Ryder",
+            "title": "Director of Product Security",
+            "company": "Slack",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/slack.html"
+        }
+    },
+    {
+        "company": "Engie",
+        "testimonial": {
+            "name": "Head of Infrastructure",
+            "title": "",
+            "company": "Engie",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/engie.html"
+        }
+    },
+    {
+        "company": "Rent-the-runway",
+        "testimonial": {
+            "name": "Stephanus Meiring",
+            "title": "",
+            "company": "Rent-the-runway",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/rent-the-runway.html"
+        }
+    },
+    {
+        "company": "Sapura Brazil",
+        "testimonial": {
+            "name": "André Merlino",
+            "title": "CEO",
+            "company": "Sapura Brazil",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/sapura.html"
+        }
+    },
+    {
+        "company": "TransUnion",
+        "testimonial": {
+            "name": "Steve Koelpin",
+            "title": "Lead Splunk Developer",
+            "company": "TransUnion",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/transunion.html"
+        }
+    },
+    {
+        "company": "Ersilia",
+        "testimonial": {
+            "name": "Miquel Duran-Frigola",
+            "title": "",
+            "company": "Ersilia",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/ersilia.html"
+        }
+    },
+    {
+        "company": "Delivery Hero.",
+        "testimonial": {
+            "name": "Mauro Papa",
+            "title": "Director of Information Security",
+            "company": "Delivery Hero.",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/delivery-hero.html"
+        }
+    },
+    {
+        "company": "Dana",
+        "testimonial": {
+            "name": "Norman Sasono",
+            "title": "",
+            "company": "Dana",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/dana.html"
+        }
+    },
+    {
+        "company": "Carnival Corp.",
+        "testimonial": {
+            "name": "Gary Eppinger",
+            "title": "Chief Information Security Officer and Global Privacy Officer",
+            "company": "Carnival Corp.",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/carnival.html"
+        }
+    },
+    {
+        "company": "2c2p",
+        "testimonial": {
+            "name": "Kavin Tantipongsakul",
+            "title": "",
+            "company": "2c2p",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/2c2p.html"
+        }
+    },
+    {
+        "company": "Unitel",
+        "testimonial": {
+            "name": "Mendsaikhan Amarjargal",
+            "title": "",
+            "company": "Unitel",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/unitel.html"
+        }
+    },
+    {
+        "company": "Travis-perkins",
+        "testimonial": {
+            "name": "Nick Bleech",
+            "title": "",
+            "company": "Travis-perkins",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/travis-perkins.html"
+        }
+    },
+    {
+        "company": "Ace",
+        "testimonial": {
+            "name": "Fngi Hsu",
+            "title": "",
+            "company": "Ace",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/ace.html"
+        }
+    },
+    {
+        "company": "Imprivata",
+        "testimonial": {
+            "name": "Manager",
+            "title": "Cloud Platform Team",
+            "company": "Imprivata",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/imprivata.html"
+        }
+    },
+    {
+        "company": "Yelp",
+        "testimonial": {
+            "name": "Kris Wehner",
+            "title": "",
+            "company": "Yelp",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/yelp.html"
+        }
+    },
+    {
+        "company": "Meggitt",
+        "testimonial": {
+            "name": "James Steel",
+            "title": "",
+            "company": "Meggitt",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/meggitt.html"
+        }
+    },
+    {
+        "company": "Kurt-geiger",
+        "testimonial": {
+            "name": "Adam Bidwell",
+            "title": "Unknown Title",
+            "company": "Kurt-geiger",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/kurt-geiger.html"
+        }
+    },
+    {
+        "company": "Hyphen-group",
+        "testimonial": {
+            "name": "Shannon Murphy",
+            "title": "",
+            "company": "Hyphen-group",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/hyphen-group.html"
+        }
+    },
+    {
+        "company": "Zillow",
+        "testimonial": {
+            "name": "Seth Thomas",
+            "title": "Director of Site Operations",
+            "company": "Zillow",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/zillow.html"
+        }
+    },
+    {
+        "company": "Rappi",
+        "testimonial": {
+            "name": "Jose Felipe Lopez",
+            "title": "",
+            "company": "Rappi",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/rappi.html"
+        }
+    },
+    {
+        "company": "Yokogawa",
+        "testimonial": {
+            "name": "Satoshi Tada",
+            "title": "Unknown Title",
+            "company": "Yokogawa",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/yokogawa.html"
+        }
+    },
+    {
+        "company": "Manpowergroup",
+        "testimonial": {
+            "name": "Mike Friedel",
+            "title": "",
+            "company": "Manpowergroup",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/manpowergroup.html"
+        }
+    },
+    {
+        "company": "Puma",
+        "testimonial": {
+            "name": "Michael Gaskin",
+            "title": "",
+            "company": "Puma",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/puma.html"
+        }
+    },
+    {
+        "company": "Orbis",
+        "testimonial": {
+            "name": "Morgan Rees",
+            "title": "Technical Delivery Manager",
+            "company": "Orbis",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/orbis.html"
+        }
+    },
+    {
+        "company": "Apromore",
+        "testimonial": {
+            "name": "Marlon Dumas",
+            "title": "",
+            "company": "Apromore",
+            "URL": "https://www.splunk.com/en_us/customers/success-stories/apromore.html"
+        }
+    }
+]

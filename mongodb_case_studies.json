@@ -1,0 +1,272 @@
+[
+    {
+        "company": "XTransfer",
+        "testimonial": {
+            "name": "Sun Lei",
+            "title": "Senior Technical Director",
+            "company": "XTransfer",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/xtransfer"
+        }
+    },
+    {
+        "company": "CSX",
+        "testimonial": {
+            "name": "Duane Lupinski",
+            "title": "Systems Architect",
+            "company": "CSX",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/csx"
+        }
+    },
+    {
+        "company": "Clarifruit",
+        "testimonial": {
+            "name": "Luke Thompson",
+            "title": "Chief Architect",
+            "company": "Clarifruit",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/clarifruit"
+        }
+    },
+    {
+        "company": "Autodesk",
+        "testimonial": {
+            "name": "Ashish Arora",
+            "title": "Head of Engineering and Machine Learning for Product Analytics",
+            "company": "Autodesk",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/autodesk"
+        }
+    },
+    {
+        "company": "Banking Front Solutions",
+        "testimonial": {
+            "name": "Dr. Martin Lorenz",
+            "title": "Product Manager",
+            "company": "Banking Front Solutions",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/swisscom"
+        }
+    },
+    {
+        "company": "Lokalee",
+        "testimonial": {
+            "name": "Mohamed Daher",
+            "title": "Chief Technology Officer",
+            "company": "Lokalee",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/lokalee"
+        }
+    },
+    {
+        "company": "Paychex",
+        "testimonial": {
+            "name": "Dave Hart",
+            "title": "Data Platforms Manager",
+            "company": "Paychex",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/paychex"
+        }
+    },
+    {
+        "company": "Relevance AI",
+        "testimonial": {
+            "name": "Jacky Koh",
+            "title": "Co-founder",
+            "company": "Relevance AI",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/relevanceai"
+        }
+    },
+    {
+        "company": "Vainu",
+        "testimonial": {
+            "name": "KIMMO PARVIAINEN-JALANKO",
+            "title": "Head of Engineering Operations",
+            "company": "Vainu",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/vainu"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Manan Shah",
+            "title": "Cloud Data Engineer",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/indeed"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Carlos Suarez",
+            "title": "Senior Database Engineer",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/cargurus"
+        }
+    },
+    {
+        "company": "IGT Solutions",
+        "testimonial": {
+            "name": "Love Ojha",
+            "title": "Vice President",
+            "company": "IGT Solutions",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/igt-solutions"
+        }
+    },
+    {
+        "company": "Engineering",
+        "testimonial": {
+            "name": "Kevin O’Dell",
+            "title": "Director",
+            "company": "Engineering",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/toyota-connected"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Unknown",
+            "title": "Unknown",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/poste-italiane"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Omar Santos",
+            "title": "Distinguished Engineer at Cisco",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/cisco"
+        }
+    },
+    {
+        "company": "Ceto",
+        "testimonial": {
+            "name": "Ben Harrison",
+            "title": "CTO",
+            "company": "Ceto",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/ceto"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Bob Xu",
+            "title": "Co-founder and CEO at Questflow",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/questflow"
+        }
+    },
+    {
+        "company": "Bumpp",
+        "testimonial": {
+            "name": "Joshua Pang",
+            "title": "CEO",
+            "company": "Bumpp",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/bumpp"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Elio Narciso",
+            "title": "co-founder and CEO at Scalestack.",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/scalestack"
+        }
+    },
+    {
+        "company": "Okta",
+        "testimonial": {
+            "name": "Suchit Agarwal",
+            "title": "Director of Engineering",
+            "company": "Okta",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/okta"
+        }
+    },
+    {
+        "company": "Wolt",
+        "testimonial": {
+            "name": "Sobit Akhmedov",
+            "title": "Staff Engineer",
+            "company": "Wolt",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/wolt"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Unknown",
+            "title": "Unknown",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/zebra"
+        }
+    },
+    {
+        "company": "Kovai",
+        "testimonial": {
+            "name": "Saravana Kumar",
+            "title": "CEO",
+            "company": "Kovai",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/kovai"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Unknown",
+            "title": "Unknown",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/ada"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Unknown",
+            "title": "Unknown",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/playvox"
+        }
+    },
+    {
+        "company": "One AI",
+        "testimonial": {
+            "name": "Amit Ben",
+            "title": "CEO and Founder",
+            "company": "One AI",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/one-ai-success-story"
+        }
+    },
+    {
+        "company": "Unknown",
+        "testimonial": {
+            "name": "Carlos Carazo Cepedano",
+            "title": "CTO IoT&BigData at Telefónica Tech",
+            "company": "Unknown",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/telefonica"
+        }
+    },
+    {
+        "company": "NOD Games",
+        "testimonial": {
+            "name": "Steve Hwang",
+            "title": "CTO",
+            "company": "NOD Games",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/nod-games"
+        }
+    },
+    {
+        "company": "Corporate Strategy",
+        "testimonial": {
+            "name": "Robert Belson",
+            "title": "Principal engineer",
+            "company": "Corporate Strategy",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/verizon"
+        }
+    },
+    {
+        "company": "Digital Solutions at TIM",
+        "testimonial": {
+            "name": "Paolo Bazzica",
+            "title": "Head",
+            "company": "Digital Solutions at TIM",
+            "URL": "https://www.mongodb.com/solutions/customer-case-studies/tim"
+        }
+    }
+]

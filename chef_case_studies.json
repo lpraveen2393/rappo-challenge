@@ -1,0 +1,146 @@
+[
+    {
+        "company": "Bank Hapoalim",
+        "testimonial": {
+            "name": "Pavel Jeloudovski",
+            "title": "Senior Systems Administrator,Bank Hapoalim",
+            "company": "Bank Hapoalim",
+            "URL": "https://www.chef.io/customers/bank-hapoalim"
+        }
+    },
+    {
+        "company": "Cerner",
+        "testimonial": {
+            "name": "Kyle Harper",
+            "title": "DevOps Manager,Cerner",
+            "company": "Cerner",
+            "URL": "https://www.chef.io/customers/cerner"
+        }
+    },
+    {
+        "company": "Danske Bank",
+        "testimonial": {
+            "name": "Liudas Baksys",
+            "title": "Development Team Manager,Danske Bank",
+            "company": "Danske Bank",
+            "URL": "https://www.chef.io/customers/danske-bank"
+        }
+    },
+    {
+        "company": "Discount Tire",
+        "testimonial": {
+            "name": "Dan Carrington",
+            "title": "Senior Systems Engineer,Discount Tire",
+            "company": "Discount Tire",
+            "URL": "https://www.chef.io/customers/discount-tire"
+        }
+    },
+    {
+        "company": "IBM",
+        "testimonial": {
+            "name": "Rich Bogdany",
+            "title": "Software Engineer,IBM",
+            "company": "IBM",
+            "URL": "https://www.chef.io/customers/ibm"
+        }
+    },
+    {
+        "company": "Intility",
+        "testimonial": {
+            "name": "Stian Frøystein",
+            "title": "Linux Technical Lead, Cloud Infrastructure,Intility",
+            "company": "Intility",
+            "URL": "https://www.chef.io/customers/intility"
+        }
+    },
+    {
+        "company": "SAP",
+        "testimonial": {
+            "name": "Ran Kahal",
+            "title": "Director of DevOps Center of Excellence,SAP",
+            "company": "SAP",
+            "URL": "https://www.chef.io/customers/sap"
+        }
+    },
+    {
+        "company": "ClearScale",
+        "testimonial": {
+            "name": "Pavel Pragin",
+            "title": "CEO/CTO,ClearScale",
+            "company": "ClearScale",
+            "URL": "https://www.chef.io/customers/shinola-detroit"
+        }
+    },
+    {
+        "company": "Standard Bank",
+        "testimonial": {
+            "name": "Dawie Olivier",
+            "title": "Executive Head of Group Technology Build,Standard Bank",
+            "company": "Standard Bank",
+            "URL": "https://www.chef.io/customers/standard-bank"
+        }
+    },
+    {
+        "company": "NCR",
+        "testimonial": {
+            "name": "Michael Hedgpeth",
+            "title": "Director Software – IT Operations Tooling,NCR",
+            "company": "NCR",
+            "URL": "https://www.chef.io/customers/ncr"
+        }
+    },
+    {
+        "company": "Relativity",
+        "testimonial": {
+            "name": "Sameer Doshi",
+            "title": "DevOps Manager,Relativity",
+            "company": "Relativity",
+            "URL": "https://www.chef.io/customers/relativity"
+        }
+    },
+    {
+        "company": "Rizing",
+        "testimonial": {
+            "name": "Rob Ericsson",
+            "title": "Sr. VP Product Development,Rizing",
+            "company": "Rizing",
+            "URL": "https://www.chef.io/customers/rizing"
+        }
+    },
+    {
+        "company": "Tesco",
+        "testimonial": {
+            "name": "Nathan Luxford",
+            "title": "Head of Cloud Platforms,Tesco",
+            "company": "Tesco",
+            "URL": "https://www.chef.io/customers/tesco"
+        }
+    },
+    {
+        "company": "Verisk Analytics",
+        "testimonial": {
+            "name": "Mike Ryan",
+            "title": "Verisk cloud architect,Verisk Analytics",
+            "company": "Verisk Analytics",
+            "URL": "https://www.chef.io/customers/verisk-analytics"
+        }
+    },
+    {
+        "company": "Intelligent Retail Lab by Walmart",
+        "testimonial": {
+            "name": "Jeff Moody",
+            "title": "DevOps Manager,Intelligent Retail Lab by Walmart",
+            "company": "Intelligent Retail Lab by Walmart",
+            "URL": "https://www.chef.io/customers/walmart-irl"
+        }
+    },
+    {
+        "company": "Hearst Business Media",
+        "testimonial": {
+            "name": "Pauly Comtois",
+            "title": "Vice President of DevOps,Hearst Business Media",
+            "company": "Hearst Business Media",
+            "URL": "https://www.chef.io/customers/zynx-health"
+        }
+    }
+]

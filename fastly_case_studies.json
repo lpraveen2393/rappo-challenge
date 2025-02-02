@@ -1,0 +1,884 @@
+[
+    {
+        "company": "Jetblue",
+        "testimonial": {
+            "name": "Randy Naraine",
+            "title": "Randy NaraineCybersecurity Architect",
+            "company": "Jetblue",
+            "URL": "https://www.fastly.com/customers/jetblue/"
+        }
+    },
+    {
+        "company": "New relic",
+        "testimonial": {
+            "name": "Nic Benders",
+            "title": "Nic BendersChief Architect",
+            "company": "New relic",
+            "URL": "https://www.fastly.com/customers/new-relic/"
+        }
+    },
+    {
+        "company": "Ticketmaster",
+        "testimonial": {
+            "name": "Todd Jimenez",
+            "title": "Todd JimenezLead CDN Engineer",
+            "company": "Ticketmaster",
+            "URL": "https://www.fastly.com/customers/ticketmaster/"
+        }
+    },
+    {
+        "company": "Outbrain",
+        "testimonial": {
+            "name": "Kobi Seviliya",
+            "title": "Kobi SeviliyaVice President and Chief Information Security Officer",
+            "company": "Outbrain",
+            "URL": "https://www.fastly.com/customers/outbrain/"
+        }
+    },
+    {
+        "company": "Znipe tv",
+        "testimonial": {
+            "name": "Patrik Åkerfeldt,",
+            "title": "Patrik Åkerfeldt",
+            "company": "Znipe tv",
+            "URL": "https://www.fastly.com/customers/znipe-tv/"
+        }
+    },
+    {
+        "company": "Gourmet gift baskets",
+        "testimonial": {
+            "name": "Jason Bergeron,",
+            "title": "Jason Bergeron",
+            "company": "Gourmet gift baskets",
+            "URL": "https://www.fastly.com/customers/gourmet-gift-baskets/"
+        }
+    },
+    {
+        "company": "Kubernetes",
+        "testimonial": {
+            "name": "Arnaud Meukam",
+            "title": "Arnaud MeukamInfra SIG co-chair and technical lead",
+            "company": "Kubernetes",
+            "URL": "https://www.fastly.com/customers/kubernetes/"
+        }
+    },
+    {
+        "company": "Rust foundation",
+        "testimonial": {
+            "name": "Joel Marcey,",
+            "title": "Joel Marcey",
+            "company": "Rust foundation",
+            "URL": "https://www.fastly.com/customers/rust-foundation/"
+        }
+    },
+    {
+        "company": "Bending spoons",
+        "testimonial": {
+            "name": "Davide Pedranz,",
+            "title": "Davide Pedranz",
+            "company": "Bending spoons",
+            "URL": "https://www.fastly.com/customers/bending-spoons/"
+        }
+    },
+    {
+        "company": "Cohost",
+        "testimonial": {
+            "name": "Jae Kaplan,",
+            "title": "Jae Kaplan",
+            "company": "Cohost",
+            "URL": "https://www.fastly.com/customers/cohost/"
+        }
+    },
+    {
+        "company": "Imgix",
+        "testimonial": {
+            "name": "Amanda Hassoun",
+            "title": "Amanda HassounSite Reliability Engineer",
+            "company": "Imgix",
+            "URL": "https://www.fastly.com/customers/imgix/"
+        }
+    },
+    {
+        "company": "Ekstra bladet",
+        "testimonial": {
+            "name": "Allan Juul",
+            "title": "Allan JuulDirector of Development",
+            "company": "Ekstra bladet",
+            "URL": "https://www.fastly.com/customers/ekstra-bladet/"
+        }
+    },
+    {
+        "company": "Stuff",
+        "testimonial": {
+            "name": "James McLean",
+            "title": "James McLeanHead of Platforms",
+            "company": "Stuff",
+            "URL": "https://www.fastly.com/customers/stuff/"
+        }
+    },
+    {
+        "company": "Ppg",
+        "testimonial": {
+            "name": "Dan Connelly",
+            "title": "Dan ConnellySecurity Architect",
+            "company": "Ppg",
+            "URL": "https://www.fastly.com/customers/ppg/"
+        }
+    },
+    {
+        "company": "Flagsmith",
+        "testimonial": {
+            "name": "Gagan Trivedi",
+            "title": "Gagan TrivediSenior Backend Engineer",
+            "company": "Flagsmith",
+            "URL": "https://www.fastly.com/customers/flagsmith/"
+        }
+    },
+    {
+        "company": "Python software foundation",
+        "testimonial": {
+            "name": "Ee Durbin",
+            "title": "Ee DurbinDirector of Infrastructure at Python Software Foundation",
+            "company": "Python software foundation",
+            "URL": "https://www.fastly.com/customers/python-software-foundation/"
+        }
+    },
+    {
+        "company": "Stellate",
+        "testimonial": {
+            "name": "Max Stoiber",
+            "title": "Max StoiberCEO",
+            "company": "Stellate",
+            "URL": "https://www.fastly.com/customers/stellate/"
+        }
+    },
+    {
+        "company": "Thg",
+        "testimonial": {
+            "name": "Abraham Ingersoll",
+            "title": "Abraham IngersollChief Security Officer",
+            "company": "Thg",
+            "URL": "https://www.fastly.com/customers/thg/"
+        }
+    },
+    {
+        "company": "Anchor",
+        "testimonial": {
+            "name": "Ben Burkert",
+            "title": "Ben BurkertCTO at Anchor",
+            "company": "Anchor",
+            "URL": "https://www.fastly.com/customers/anchor/"
+        }
+    },
+    {
+        "company": "Squarespace",
+        "testimonial": {
+            "name": "Yufeng Xiong",
+            "title": "Yufeng XiongEngineering Manager",
+            "company": "Squarespace",
+            "URL": "https://www.fastly.com/customers/squarespace/"
+        }
+    },
+    {
+        "company": "Itvx",
+        "testimonial": {
+            "name": "Mark Ison",
+            "title": "Mark IsonDirector of Engineering at ITV",
+            "company": "Itvx",
+            "URL": "https://www.fastly.com/customers/itvx/"
+        }
+    },
+    {
+        "company": "Brad's deals",
+        "testimonial": {
+            "name": "Keith Mazanec",
+            "title": "Keith MazanecDirector of software engineering at Brad's Deals",
+            "company": "Brad's deals",
+            "URL": "https://www.fastly.com/customers/brads-deals/"
+        }
+    },
+    {
+        "company": "Duolingo",
+        "testimonial": {
+            "name": "Matt Brandman",
+            "title": "Matt BrandmanSenior Engineering Manager",
+            "company": "Duolingo",
+            "URL": "https://www.fastly.com/customers/duolingo/"
+        }
+    },
+    {
+        "company": "Tf1",
+        "testimonial": {
+            "name": "Simon Laroque",
+            "title": "Simon LaroqueProject Manager",
+            "company": "Tf1",
+            "URL": "https://www.fastly.com/customers/tf1/"
+        }
+    },
+    {
+        "company": "Strawberry",
+        "testimonial": {
+            "name": "Martin Belak",
+            "title": "Martin BelakDirector of Digital Development",
+            "company": "Strawberry",
+            "URL": "https://www.fastly.com/customers/strawberry/"
+        }
+    },
+    {
+        "company": "Gitguardian",
+        "testimonial": {
+            "name": "Kayssar Daher",
+            "title": "Kayssar DaherGitGuardian Security Engineer",
+            "company": "Gitguardian",
+            "URL": "https://www.fastly.com/customers/gitguardian/"
+        }
+    },
+    {
+        "company": "Nine entertainment",
+        "testimonial": {
+            "name": "Andre Lackmann",
+            "title": "Andre LackmannTechnology Director at Nine",
+            "company": "Nine entertainment",
+            "URL": "https://www.fastly.com/customers/nine-entertainment/"
+        }
+    },
+    {
+        "company": "Dansons",
+        "testimonial": {
+            "name": "Ryan Minor",
+            "title": "Ryan MinorMobile and IoT Development Manager at Dansons",
+            "company": "Dansons",
+            "URL": "https://www.fastly.com/customers/dansons/"
+        }
+    },
+    {
+        "company": "Paramount global",
+        "testimonial": {
+            "name": "Sean McCarthy",
+            "title": "Sean McCarthyPrincipal Product Manager",
+            "company": "Paramount global",
+            "URL": "https://www.fastly.com/customers/paramount-global/"
+        }
+    },
+    {
+        "company": "Marfeel",
+        "testimonial": {
+            "name": "Joan Tomàs-Buliart",
+            "title": "Joan Tomàs-BuliartDirector of Infrastructure at Marfeel",
+            "company": "Marfeel",
+            "URL": "https://www.fastly.com/customers/marfeel/"
+        }
+    },
+    {
+        "company": "Winning group",
+        "testimonial": {
+            "name": "Dax Lee",
+            "title": "Dax LeeChief Technology Officer",
+            "company": "Winning group",
+            "URL": "https://www.fastly.com/customers/winning-group/"
+        }
+    },
+    {
+        "company": "Movember",
+        "testimonial": {
+            "name": "Byron Hill",
+            "title": "Byron HillHead of Technology",
+            "company": "Movember",
+            "URL": "https://www.fastly.com/customers/movember/"
+        }
+    },
+    {
+        "company": "Finnai",
+        "testimonial": {
+            "name": "Robin Monks",
+            "title": "Robin MonksDirector of Engineering",
+            "company": "Finnai",
+            "URL": "https://www.fastly.com/customers/finnai/"
+        }
+    },
+    {
+        "company": "Chef",
+        "testimonial": {
+            "name": "Ben Rockwood",
+            "title": "Ben RockwoodDirector of Engineering at Chef",
+            "company": "Chef",
+            "URL": "https://www.fastly.com/customers/chef/"
+        }
+    },
+    {
+        "company": "Namely",
+        "testimonial": {
+            "name": "Daniel Leslie",
+            "title": "Daniel LeslieDirector of Security Intelligence & IT Operations",
+            "company": "Namely",
+            "URL": "https://www.fastly.com/customers/namely/"
+        }
+    },
+    {
+        "company": "Prezi",
+        "testimonial": {
+            "name": "Mihály Zágon",
+            "title": "Mihály ZágonEngineering Manager",
+            "company": "Prezi",
+            "URL": "https://www.fastly.com/customers/prezi/"
+        }
+    },
+    {
+        "company": "Sauce labs",
+        "testimonial": {
+            "name": "John Kennedy",
+            "title": "John KennedySenior Director of Product Security",
+            "company": "Sauce labs",
+            "URL": "https://www.fastly.com/customers/sauce-labs/"
+        }
+    },
+    {
+        "company": "Cybrary",
+        "testimonial": {
+            "name": "Jonathan Meyers",
+            "title": "Jonathan MeyersPrincipal Infrastructure Engineer",
+            "company": "Cybrary",
+            "URL": "https://www.fastly.com/customers/cybrary/"
+        }
+    },
+    {
+        "company": "Remitly",
+        "testimonial": {
+            "name": "Kevin Hanaford",
+            "title": "Kevin HanafordSenior Manager of Security & IT",
+            "company": "Remitly",
+            "URL": "https://www.fastly.com/customers/remitly/"
+        }
+    },
+    {
+        "company": "Bloomnation",
+        "testimonial": {
+            "name": "Ashlin Jones",
+            "title": "Ashlin JonesLead DevOps Engineer",
+            "company": "Bloomnation",
+            "URL": "https://www.fastly.com/customers/bloomnation/"
+        }
+    },
+    {
+        "company": "Magnolia",
+        "testimonial": {
+            "name": "Lukas Reck",
+            "title": "Lukas ReckProduct Manager-PaaS",
+            "company": "Magnolia",
+            "URL": "https://www.fastly.com/customers/magnolia/"
+        }
+    },
+    {
+        "company": "Seenthis",
+        "testimonial": {
+            "name": "Einar Andersson",
+            "title": "Einar AnderssonCTO",
+            "company": "Seenthis",
+            "URL": "https://www.fastly.com/customers/seenthis/"
+        }
+    },
+    {
+        "company": "Storytel",
+        "testimonial": {
+            "name": "Alexander Pochill",
+            "title": "Alexander PochillStorytel Core Experience Engineer.",
+            "company": "Storytel",
+            "URL": "https://www.fastly.com/customers/storytel/"
+        }
+    },
+    {
+        "company": "Giphy",
+        "testimonial": {
+            "name": "Brian Benns",
+            "title": "Brian BennsSenior Site Reliability Engineer",
+            "company": "Giphy",
+            "URL": "https://www.fastly.com/customers/giphy/"
+        }
+    },
+    {
+        "company": "Pronovias group",
+        "testimonial": {
+            "name": "Jorge Cases",
+            "title": "Jorge CasesService Manager Onestic",
+            "company": "Pronovias group",
+            "URL": "https://www.fastly.com/customers/pronovias-group/"
+        }
+    },
+    {
+        "company": "Slate",
+        "testimonial": {
+            "name": "Greg Lavallee",
+            "title": "Greg LavalleeVP of Technology",
+            "company": "Slate",
+            "URL": "https://www.fastly.com/customers/slate/"
+        }
+    },
+    {
+        "company": "Taboola",
+        "testimonial": {
+            "name": "Ariel Pisetzky",
+            "title": "Ariel PisetzkyVP Information Technology & Cyber",
+            "company": "Taboola",
+            "URL": "https://www.fastly.com/customers/taboola/"
+        }
+    },
+    {
+        "company": "Trademe",
+        "testimonial": {
+            "name": "Kate Pearce",
+            "title": "Kate PearceHead of Security",
+            "company": "Trademe",
+            "URL": "https://www.fastly.com/customers/trademe/"
+        }
+    },
+    {
+        "company": "Litium",
+        "testimonial": {
+            "name": "Daniel Hultgren",
+            "title": "Daniel HultgrenCOO",
+            "company": "Litium",
+            "URL": "https://www.fastly.com/customers/litium/"
+        }
+    },
+    {
+        "company": "Ofx",
+        "testimonial": {
+            "name": "Richard Lane",
+            "title": "Richard LaneHead of Security at OFX",
+            "company": "Ofx",
+            "URL": "https://www.fastly.com/customers/ofx/"
+        }
+    },
+    {
+        "company": "Axon",
+        "testimonial": {
+            "name": "Jenner Holden",
+            "title": "Jenner HoldenVP of Information Security at AXON",
+            "company": "Axon",
+            "URL": "https://www.fastly.com/customers/axon/"
+        }
+    },
+    {
+        "company": "Betterment",
+        "testimonial": {
+            "name": "Anson Gomes",
+            "title": "Anson GomesLead Security Engineer",
+            "company": "Betterment",
+            "URL": "https://www.fastly.com/customers/betterment/"
+        }
+    },
+    {
+        "company": "Maritz",
+        "testimonial": {
+            "name": "Andy Wolfe",
+            "title": "Andy WolfeTechnical Architect at Maritz",
+            "company": "Maritz",
+            "URL": "https://www.fastly.com/customers/maritz/"
+        }
+    },
+    {
+        "company": "Edgemesh",
+        "testimonial": {
+            "name": "Jake Loveless",
+            "title": "Jake Loveless",
+            "company": "Edgemesh",
+            "URL": "https://www.fastly.com/customers/edgemesh/"
+        }
+    },
+    {
+        "company": "Brandfolder",
+        "testimonial": {
+            "name": "Brett Nekolny",
+            "title": "Brett Nekolny",
+            "company": "Brandfolder",
+            "URL": "https://www.fastly.com/customers/brandfolder/"
+        }
+    },
+    {
+        "company": "Blackpepper",
+        "testimonial": {
+            "name": "Alain Russell",
+            "title": "Alain RussellCEO",
+            "company": "Blackpepper",
+            "URL": "https://www.fastly.com/customers/blackpepper/"
+        }
+    },
+    {
+        "company": "Linktree",
+        "testimonial": {
+            "name": "Paul Oram",
+            "title": "Paul Oram",
+            "company": "Linktree",
+            "URL": "https://www.fastly.com/customers/linktree/"
+        }
+    },
+    {
+        "company": "Nine",
+        "testimonial": {
+            "name": "Damian Cronan",
+            "title": "Damian CronanChief Information & Technology Officer",
+            "company": "Nine",
+            "URL": "https://www.fastly.com/customers/nine/"
+        }
+    },
+    {
+        "company": "Filestack",
+        "testimonial": {
+            "name": "Slawomir Zabiewicz",
+            "title": "Slawomir Zabiewicz",
+            "company": "Filestack",
+            "URL": "https://www.fastly.com/customers/filestack/"
+        }
+    },
+    {
+        "company": "Superology",
+        "testimonial": {
+            "name": "Petar Kujundžić",
+            "title": "Petar KujundžićPlatform Architect",
+            "company": "Superology",
+            "URL": "https://www.fastly.com/customers/superology/"
+        }
+    },
+    {
+        "company": "Dena",
+        "testimonial": {
+            "name": "Takayuki Yasunaga",
+            "title": "Takayuki YasunagaCyber Security Engineer",
+            "company": "Dena",
+            "URL": "https://www.fastly.com/customers/dena/"
+        }
+    },
+    {
+        "company": "Madeiramadeira",
+        "testimonial": {
+            "name": "Ivan Zamban",
+            "title": "Ivan ZambanHead of Cloud and Infrastructure",
+            "company": "Madeiramadeira",
+            "URL": "https://www.fastly.com/customers/madeiramadeira/"
+        }
+    },
+    {
+        "company": "Split",
+        "testimonial": {
+            "name": "Patricio “Pato” Echagüe",
+            "title": "Patricio “Pato” EchagüeChief Technology Officer and Co-founder",
+            "company": "Split",
+            "URL": "https://www.fastly.com/customers/split/"
+        }
+    },
+    {
+        "company": "Realtyninja",
+        "testimonial": {
+            "name": "Casimir Loeber",
+            "title": "Casimir LoeberCo-Founder and Lead Developer",
+            "company": "Realtyninja",
+            "URL": "https://www.fastly.com/customers/realtyninja/"
+        }
+    },
+    {
+        "company": "Skillsoft",
+        "testimonial": {
+            "name": "Brad MacDonald",
+            "title": "Brad MacDonaldClouds Solutions Engineering Manager",
+            "company": "Skillsoft",
+            "URL": "https://www.fastly.com/customers/skillsoft/"
+        }
+    },
+    {
+        "company": "Shoptimize",
+        "testimonial": {
+            "name": "Vivek Phalak",
+            "title": "Vivek PhalakCTO",
+            "company": "Shoptimize",
+            "URL": "https://www.fastly.com/customers/shoptimize/"
+        }
+    },
+    {
+        "company": "Launchdarkly",
+        "testimonial": {
+            "name": "Arun Bhalla",
+            "title": "Arun BhallaEngineering Manager",
+            "company": "Launchdarkly",
+            "URL": "https://www.fastly.com/customers/launchdarkly/"
+        }
+    },
+    {
+        "company": "Dunelm",
+        "testimonial": {
+            "name": "Tom Hayman",
+            "title": "Tom HaymanHead of Platform Engineering",
+            "company": "Dunelm",
+            "URL": "https://www.fastly.com/customers/dunelm/"
+        }
+    },
+    {
+        "company": "Ticketmaster",
+        "testimonial": {
+            "name": "Todd Jimenez",
+            "title": "Todd JimenezLead CDN Engineer",
+            "company": "Ticketmaster",
+            "URL": "https://www.fastly.com/customers/ticketmaster/"
+        }
+    },
+    {
+        "company": "Hoodoo",
+        "testimonial": {
+            "name": "Andy Wakefield",
+            "title": "Andy WakefieldCo-founder",
+            "company": "Hoodoo",
+            "URL": "https://www.fastly.com/customers/hoodoo/"
+        }
+    },
+    {
+        "company": "Yottaa",
+        "testimonial": {
+            "name": "Peter Karytko",
+            "title": "Peter KarytkoDirector of Technical Operations",
+            "company": "Yottaa",
+            "URL": "https://www.fastly.com/customers/yottaa/"
+        }
+    },
+    {
+        "company": "Gannett",
+        "testimonial": {
+            "name": "Erik Bursch",
+            "title": "Erik BurschVP",
+            "company": "Gannett",
+            "URL": "https://www.fastly.com/customers/gannett/"
+        }
+    },
+    {
+        "company": "Rvu",
+        "testimonial": {
+            "name": "Tom Booth",
+            "title": "Tom BoothHead of Infrastructure and Security",
+            "company": "Rvu",
+            "URL": "https://www.fastly.com/customers/rvu/"
+        }
+    },
+    {
+        "company": "Atresmedia",
+        "testimonial": {
+            "name": "Carlos Santos",
+            "title": "Carlos SantosVideo Platform Manager",
+            "company": "Atresmedia",
+            "URL": "https://www.fastly.com/customers/atresmedia/"
+        }
+    },
+    {
+        "company": "Jimdo",
+        "testimonial": {
+            "name": "Paul Seiffert",
+            "title": "Paul SeiffertTeam Lead of Infrastructure Engineering",
+            "company": "Jimdo",
+            "URL": "https://www.fastly.com/customers/jimdo/"
+        }
+    },
+    {
+        "company": "La redoute",
+        "testimonial": {
+            "name": "Alexandre Marlot",
+            "title": "Alexandre MarlotWeb Architect",
+            "company": "La redoute",
+            "URL": "https://www.fastly.com/customers/la-redoute/"
+        }
+    },
+    {
+        "company": "Wikihow",
+        "testimonial": {
+            "name": "Elizabeth Douglas",
+            "title": "Elizabeth DouglasCEO",
+            "company": "Wikihow",
+            "URL": "https://www.fastly.com/customers/wikihow/"
+        }
+    },
+    {
+        "company": "Fubotv",
+        "testimonial": {
+            "name": "Max Stoiber",
+            "title": "Max StoiberCo-founder",
+            "company": "Fubotv",
+            "URL": "https://www.fastly.com/customers/fubotv/"
+        }
+    },
+    {
+        "company": "Big cartel",
+        "testimonial": {
+            "name": "Lee Jensen",
+            "title": "Lee JensenTechnical Director",
+            "company": "Big cartel",
+            "URL": "https://www.fastly.com/customers/big-cartel/"
+        }
+    },
+    {
+        "company": "Yelp",
+        "testimonial": {
+            "name": "Fred Hatfull",
+            "title": "Fred HatfullEngineering Manager",
+            "company": "Yelp",
+            "URL": "https://www.fastly.com/customers/yelp/"
+        }
+    },
+    {
+        "company": "Deliveroo",
+        "testimonial": {
+            "name": "Martin Phee",
+            "title": "Martin PheeSenior Software Engineer",
+            "company": "Deliveroo",
+            "URL": "https://www.fastly.com/customers/deliveroo/"
+        }
+    },
+    {
+        "company": "1stdibs",
+        "testimonial": {
+            "name": "Ross Paul",
+            "title": "Ross PaulCTO",
+            "company": "1stdibs",
+            "URL": "https://www.fastly.com/customers/1stdibs/"
+        }
+    },
+    {
+        "company": "Wayfair",
+        "testimonial": {
+            "name": "Jack Wood",
+            "title": "Jack WoodCIO",
+            "company": "Wayfair",
+            "URL": "https://www.fastly.com/customers/wayfair/"
+        }
+    },
+    {
+        "company": "Wanelo",
+        "testimonial": {
+            "name": "Konstantin Gredeskoul",
+            "title": "Konstantin GredeskoulCTO",
+            "company": "Wanelo",
+            "URL": "https://www.fastly.com/customers/wanelo/"
+        }
+    },
+    {
+        "company": "Foursquare",
+        "testimonial": {
+            "name": "Ryan Landry",
+            "title": "Ryan LandryDirector of Network Engineering",
+            "company": "Foursquare",
+            "URL": "https://www.fastly.com/customers/foursquare/"
+        }
+    },
+    {
+        "company": "Shazam",
+        "testimonial": {
+            "name": "Charles Henrich",
+            "title": "Charles HenrichSEVP of Engineering",
+            "company": "Shazam",
+            "URL": "https://www.fastly.com/customers/shazam/"
+        }
+    },
+    {
+        "company": "Wired",
+        "testimonial": {
+            "name": "Kathleen Vignos",
+            "title": "Kathleen VignosDirector of Engineering",
+            "company": "Wired",
+            "URL": "https://www.fastly.com/customers/wired/"
+        }
+    },
+    {
+        "company": "7digital",
+        "testimonial": {
+            "name": "Darrell Mozingo",
+            "title": "Darrell MozingoTeam Lead",
+            "company": "7digital",
+            "URL": "https://www.fastly.com/customers/7digital/"
+        }
+    },
+    {
+        "company": "Business insider",
+        "testimonial": {
+            "name": "Julie Sommerville",
+            "title": "Julie SommervilleVP of Engineering",
+            "company": "Business insider",
+            "URL": "https://www.fastly.com/customers/business-insider/"
+        }
+    },
+    {
+        "company": "Opera",
+        "testimonial": {
+            "name": "Espen Myhre",
+            "title": "Espen MyhreTeam Manager",
+            "company": "Opera",
+            "URL": "https://www.fastly.com/customers/opera/"
+        }
+    },
+    {
+        "company": "New relic",
+        "testimonial": {
+            "name": "Nic Benders",
+            "title": "Nic BendersChief Architect",
+            "company": "New relic",
+            "URL": "https://www.fastly.com/customers/new-relic/"
+        }
+    },
+    {
+        "company": "Imgur",
+        "testimonial": {
+            "name": "Alan Schaaf",
+            "title": "Alan SchaafFounder and CEO of Imgur",
+            "company": "Imgur",
+            "URL": "https://www.fastly.com/customers/imgur/"
+        }
+    },
+    {
+        "company": "The guardian",
+        "testimonial": {
+            "name": "Matthew O'Brien",
+            "title": "Matthew O'BrienSoftware Architect",
+            "company": "The guardian",
+            "URL": "https://www.fastly.com/customers/the-guardian/"
+        }
+    },
+    {
+        "company": "Boots uk",
+        "testimonial": {
+            "name": "Peter Dawson",
+            "title": "Peter Dawson",
+            "company": "Boots uk",
+            "URL": "https://www.fastly.com/customers/boots-uk/"
+        }
+    },
+    {
+        "company": "Drupal association",
+        "testimonial": {
+            "name": "Rudy Grigar",
+            "title": "Rudy GrigarInfrastructure Manager",
+            "company": "Drupal association",
+            "URL": "https://www.fastly.com/customers/drupal-association/"
+        }
+    },
+    {
+        "company": "Github",
+        "testimonial": {
+            "name": "Jesse Newland",
+            "title": "Jesse NewlandSystems Engineer",
+            "company": "Github",
+            "URL": "https://www.fastly.com/customers/github/"
+        }
+    },
+    {
+        "company": "Sonatype",
+        "testimonial": {
+            "name": "Jason Swank",
+            "title": "Jason SwankTechnical Operations Lead",
+            "company": "Sonatype",
+            "URL": "https://www.fastly.com/customers/sonatype/"
+        }
+    },
+    {
+        "company": "Wenner media",
+        "testimonial": {
+            "name": "Chris Boylan",
+            "title": "Chris BoylanDirector of Engineering",
+            "company": "Wenner media",
+            "URL": "https://www.fastly.com/customers/wenner-media/"
+        }
+    }
+]

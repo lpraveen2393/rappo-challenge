@@ -1,0 +1,650 @@
+[
+    {
+        "company": "Alight",
+        "testimonial": {
+            "name": "Chris Roberts",
+            "title": "Vice President Enterprise Architecture",
+            "company": "Alight",
+            "URL": "https://www.confluent.io/customers/alight"
+        }
+    },
+    {
+        "company": "Amway",
+        "testimonial": {
+            "name": "Brian Hart",
+            "title": "Vice President–IT Internal Business Solutions",
+            "company": "Amway",
+            "URL": "https://www.confluent.io/customers/amway"
+        }
+    },
+    {
+        "company": "AI, and Analytics, 8x8",
+        "testimonial": {
+            "name": "Manu Mukerji",
+            "title": "Senior Director of ML",
+            "company": "AI, and Analytics, 8x8",
+            "URL": "https://www.confluent.io/customers/8x8"
+        }
+    },
+    {
+        "company": "ACERTUS",
+        "testimonial": {
+            "name": "Jeffrey Jennings",
+            "title": "VP of Data Integration Services",
+            "company": "ACERTUS",
+            "URL": "https://www.confluent.io/customers/acertus"
+        }
+    },
+    {
+        "company": "AO.com",
+        "testimonial": {
+            "name": "Jon Vines",
+            "title": "Engineering Lead",
+            "company": "AO.com",
+            "URL": "https://www.confluent.io/customers/ao"
+        }
+    },
+    {
+        "company": "Affin Hwang Asset Managment",
+        "testimonial": {
+            "name": "Allen Woo",
+            "title": "Chief Innovation Officer",
+            "company": "Affin Hwang Asset Managment",
+            "URL": "https://www.confluent.io/customers/affin-hwang-asset-management"
+        }
+    },
+    {
+        "company": "Apna",
+        "testimonial": {
+            "name": "Suresh Khemka",
+            "title": "Head of platform engineering and infrastructure",
+            "company": "Apna",
+            "URL": "https://www.confluent.io/customers/apna"
+        }
+    },
+    {
+        "company": "Arcese",
+        "testimonial": {
+            "name": "Massimiliano Catapano",
+            "title": "Chief Technology Officer",
+            "company": "Arcese",
+            "URL": "https://www.confluent.io/customers/arcese"
+        }
+    },
+    {
+        "company": "Audacy",
+        "testimonial": {
+            "name": "Unknown Name",
+            "title": "Unknown Role",
+            "company": "Audacy",
+            "URL": "https://www.confluent.io/customers/audacy"
+        }
+    },
+    {
+        "company": "Bmw Group",
+        "testimonial": {
+            "name": "Unknown Name",
+            "title": "Unknown Role",
+            "company": "Bmw Group",
+            "URL": "https://www.confluent.io/customers/bmw-group"
+        }
+    },
+    {
+        "company": "Bank BTPN",
+        "testimonial": {
+            "name": "Joko Kurniawan",
+            "title": "Digital Service Enablement Head",
+            "company": "Bank BTPN",
+            "URL": "https://www.confluent.io/customers/bank-btpn"
+        }
+    },
+    {
+        "company": "Best Secret",
+        "testimonial": {
+            "name": "Siegfried Polysius",
+            "title": "VP Cloud & Architecture",
+            "company": "Best Secret",
+            "URL": "https://www.confluent.io/customers/bestsecret"
+        }
+    },
+    {
+        "company": "BigCommerce",
+        "testimonial": {
+            "name": "Mahendra Kumar",
+            "title": "VP of Data and Software Engineering",
+            "company": "BigCommerce",
+            "URL": "https://www.confluent.io/customers/bigcommerce"
+        }
+    },
+    {
+        "company": "Booking.com",
+        "testimonial": {
+            "name": "Maxim Foursa",
+            "title": "Senior Engineering Manager",
+            "company": "Booking.com",
+            "URL": "https://www.confluent.io/customers/booking-com"
+        }
+    },
+    {
+        "company": "Buzzvil",
+        "testimonial": {
+            "name": "Jueun Seo",
+            "title": "Chief Technology Officer",
+            "company": "Buzzvil",
+            "URL": "https://www.confluent.io/customers/buzzvil"
+        }
+    },
+    {
+        "company": "Care.com",
+        "testimonial": {
+            "name": "Sean Schade",
+            "title": "Platform Architect",
+            "company": "Care.com",
+            "URL": "https://www.confluent.io/customers/care-com"
+        }
+    },
+    {
+        "company": "Cerved",
+        "testimonial": {
+            "name": "Pasquale Fosso",
+            "title": "Head of Data Architecture",
+            "company": "Cerved",
+            "URL": "https://www.confluent.io/customers/cerved"
+        }
+    },
+    {
+        "company": "Citizens Bank",
+        "testimonial": {
+            "name": "Sudhakar Gopal",
+            "title": "Executive VP & Head of Engineering",
+            "company": "Citizens Bank",
+            "URL": "https://www.confluent.io/customers/citizens-bank"
+        }
+    },
+    {
+        "company": "Curve",
+        "testimonial": {
+            "name": "Gustavo Ferreira",
+            "title": "Tech Lead Software Engineer",
+            "company": "Curve",
+            "URL": "https://www.confluent.io/customers/curve"
+        }
+    },
+    {
+        "company": "DATEV eG",
+        "testimonial": {
+            "name": "Martin Dengler",
+            "title": "Lead DevOps Engineer",
+            "company": "DATEV eG",
+            "URL": "https://www.confluent.io/customers/datev"
+        }
+    },
+    {
+        "company": "DISH Wireless",
+        "testimonial": {
+            "name": "Brian Mengwasser",
+            "title": "Vice President and Head of Marketplace and App Design",
+            "company": "DISH Wireless",
+            "URL": "https://www.confluent.io/customers/dish-wireless"
+        }
+    },
+    {
+        "company": "GEP Worldwide",
+        "testimonial": {
+            "name": "Nithin Prasad",
+            "title": "Senior Engineering Manager",
+            "company": "GEP Worldwide",
+            "URL": "https://www.confluent.io/customers/gep-worldwide"
+        }
+    },
+    {
+        "company": "Euronext",
+        "testimonial": {
+            "name": "Phillipe Pujalte",
+            "title": "Infrastructure and Operations Director",
+            "company": "Euronext",
+            "URL": "https://www.confluent.io/customers/euronext"
+        }
+    },
+    {
+        "company": "EVO Banco",
+        "testimonial": {
+            "name": "José Enrique Pérez Fernández",
+            "title": "Chief Data Officer",
+            "company": "EVO Banco",
+            "URL": "https://www.confluent.io/customers/evo-banco"
+        }
+    },
+    {
+        "company": "ETC",
+        "testimonial": {
+            "name": "Josh LittleSun",
+            "title": "Director of Technology",
+            "company": "ETC",
+            "URL": "https://www.confluent.io/customers/etc"
+        }
+    },
+    {
+        "company": "DriveCentric",
+        "testimonial": {
+            "name": "Chris Buriss",
+            "title": "CTO",
+            "company": "DriveCentric",
+            "URL": "https://www.confluent.io/customers/drivecentric"
+        }
+    },
+    {
+        "company": "Dominos",
+        "testimonial": {
+            "name": "Unknown Name",
+            "title": "Unknown Role",
+            "company": "Dominos",
+            "URL": "https://www.confluent.io/customers/dominos"
+        }
+    },
+    {
+        "company": "Dick's Sporting Goods",
+        "testimonial": {
+            "name": "Jay Piskorik",
+            "title": "Director of Platform Engineering",
+            "company": "Dick's Sporting Goods",
+            "URL": "https://www.confluent.io/customers/dicks-sporting-goods"
+        }
+    },
+    {
+        "company": "Deutsche Bahn",
+        "testimonial": {
+            "name": "Unknown Name",
+            "title": "Unknown Role",
+            "company": "Deutsche Bahn",
+            "URL": "https://www.confluent.io/customers/deutsche-bahn"
+        }
+    },
+    {
+        "company": "DKV Mobility",
+        "testimonial": {
+            "name": "Tobias Gockel",
+            "title": "Platform Team Manager",
+            "company": "DKV Mobility",
+            "URL": "https://www.confluent.io/customers/dkvmobility"
+        }
+    },
+    {
+        "company": "Generali",
+        "testimonial": {
+            "name": "Christian Nicoll",
+            "title": "Director of Platform Engineering and Operations",
+            "company": "Generali",
+            "URL": "https://www.confluent.io/customers/generali"
+        }
+    },
+    {
+        "company": "Globe Group",
+        "testimonial": {
+            "name": "John Bibal II",
+            "title": "Director of Data Engineering",
+            "company": "Globe Group",
+            "URL": "https://www.confluent.io/customers/globe-group"
+        }
+    },
+    {
+        "company": "Cloud Architecture, Humana",
+        "testimonial": {
+            "name": "Levi Bailey",
+            "title": "Associate Vice President",
+            "company": "Cloud Architecture, Humana",
+            "URL": "https://www.confluent.io/customers/humana"
+        }
+    },
+    {
+        "company": "Instacart",
+        "testimonial": {
+            "name": "Nate Kupp",
+            "title": "Director of Engineering",
+            "company": "Instacart",
+            "URL": "https://www.confluent.io/customers/instacart"
+        }
+    },
+    {
+        "company": "Intel",
+        "testimonial": {
+            "name": "Brian Conran",
+            "title": "Vice President and CISO",
+            "company": "Intel",
+            "URL": "https://www.confluent.io/customers/intel"
+        }
+    },
+    {
+        "company": "Service Management, Judo Bank",
+        "testimonial": {
+            "name": "Niko Bielovich",
+            "title": "General Manager",
+            "company": "Service Management, Judo Bank",
+            "URL": "https://www.confluent.io/customers/judo-bank"
+        }
+    },
+    {
+        "company": "Kakao Games",
+        "testimonial": {
+            "name": "Eugene Lee",
+            "title": "Director of Infrastructure Division",
+            "company": "Kakao Games",
+            "URL": "https://www.confluent.io/customers/kakao-games"
+        }
+    },
+    {
+        "company": "King",
+        "testimonial": {
+            "name": "Marcus Walter",
+            "title": "Technical Director",
+            "company": "King",
+            "URL": "https://www.confluent.io/customers/king"
+        }
+    },
+    {
+        "company": "Kredivo",
+        "testimonial": {
+            "name": "Adityo August",
+            "title": "Data Engineering and Analytics Lead",
+            "company": "Kredivo",
+            "URL": "https://www.confluent.io/customers/kredivo"
+        }
+    },
+    {
+        "company": "Meesho",
+        "testimonial": {
+            "name": "Alok Sharma",
+            "title": "Director of Engineering",
+            "company": "Meesho",
+            "URL": "https://www.confluent.io/customers/meesho"
+        }
+    },
+    {
+        "company": "Michelin",
+        "testimonial": {
+            "name": "Yves Caseau",
+            "title": "Group Chief Digital & Information Officer",
+            "company": "Michelin",
+            "URL": "https://www.confluent.io/customers/michelin"
+        }
+    },
+    {
+        "company": "Moniepoint",
+        "testimonial": {
+            "name": "Felix Ike",
+            "title": "CTO",
+            "company": "Moniepoint",
+            "URL": "https://www.confluent.io/customers/moniepoint"
+        }
+    },
+    {
+        "company": "NORD/LB",
+        "testimonial": {
+            "name": "Sven Wilbert",
+            "title": "Data Manager",
+            "company": "NORD/LB",
+            "URL": "https://www.confluent.io/customers/nord-lb"
+        }
+    },
+    {
+        "company": "Nuuly",
+        "testimonial": {
+            "name": "Chirag Dadia",
+            "title": "Director of Engineering",
+            "company": "Nuuly",
+            "URL": "https://www.confluent.io/customers/nuuly"
+        }
+    },
+    {
+        "company": "OTTO Group",
+        "testimonial": {
+            "name": "Fabian Schmidt",
+            "title": "Senior Expert Product Data Technology",
+            "company": "OTTO Group",
+            "URL": "https://www.confluent.io/customers/otto"
+        }
+    },
+    {
+        "company": "One Mount Group",
+        "testimonial": {
+            "name": "Trần Thế Chinh",
+            "title": "Head of System Platform",
+            "company": "One Mount Group",
+            "URL": "https://www.confluent.io/customers/one-mount-group"
+        }
+    },
+    {
+        "company": "Optimove",
+        "testimonial": {
+            "name": "Shai Frank",
+            "title": "VP of Product",
+            "company": "Optimove",
+            "URL": "https://www.confluent.io/customers/optimove"
+        }
+    },
+    {
+        "company": "OutSystems",
+        "testimonial": {
+            "name": "Ambarish Kumar",
+            "title": "Manager - Data Platform",
+            "company": "OutSystems",
+            "URL": "https://www.confluent.io/customers/outsystems"
+        }
+    },
+    {
+        "company": "Picnic",
+        "testimonial": {
+            "name": "Dima Kalashnikov",
+            "title": "Technical Lead",
+            "company": "Picnic",
+            "URL": "https://www.confluent.io/customers/picnic"
+        }
+    },
+    {
+        "company": "Q2",
+        "testimonial": {
+            "name": "Robert Ruetz",
+            "title": "Software Developer",
+            "company": "Q2",
+            "URL": "https://www.confluent.io/customers/q2"
+        }
+    },
+    {
+        "company": "Enterpise Cloud, RBC",
+        "testimonial": {
+            "name": "Mike Krolnick",
+            "title": "Head of Engineering",
+            "company": "Enterpise Cloud, RBC",
+            "URL": "https://www.confluent.io/customers/rbc"
+        }
+    },
+    {
+        "company": "Recursion",
+        "testimonial": {
+            "name": "Ben Mabey",
+            "title": "VP of Engineering",
+            "company": "Recursion",
+            "URL": "https://www.confluent.io/customers/recursion"
+        }
+    },
+    {
+        "company": "Rodan + Fields",
+        "testimonial": {
+            "name": "Jason Mattioda",
+            "title": "Head of Enterprise Technology",
+            "company": "Rodan + Fields",
+            "URL": "https://www.confluent.io/customers/rodan-fields"
+        }
+    },
+    {
+        "company": "Roosevelt and Delta Dental",
+        "testimonial": {
+            "name": "Muk Agaram",
+            "title": "VP",
+            "company": "Roosevelt and Delta Dental",
+            "URL": "https://www.confluent.io/customers/roosevelt-and-delta-dental"
+        }
+    },
+    {
+        "company": "SAS Cloud, SAS",
+        "testimonial": {
+            "name": "Justin Dempsey",
+            "title": "Senior Manager",
+            "company": "SAS Cloud, SAS",
+            "URL": "https://www.confluent.io/customers/sas"
+        }
+    },
+    {
+        "company": "SEI Investments",
+        "testimonial": {
+            "name": "Steven Sermarini",
+            "title": "Senior Enterprise Architect",
+            "company": "SEI Investments",
+            "URL": "https://www.confluent.io/customers/sei-investments"
+        }
+    },
+    {
+        "company": "Sainsbury's",
+        "testimonial": {
+            "name": "",
+            "title": "Senior Engineering Manager",
+            "company": "Sainsbury's",
+            "URL": "https://www.confluent.io/customers/sainsburys"
+        }
+    },
+    {
+        "company": "Ticketmaster",
+        "testimonial": {
+            "name": "Chris Smith",
+            "title": "VP of Engineering Data Science",
+            "company": "Ticketmaster",
+            "URL": "https://www.confluent.io/customers/ticketmaster"
+        }
+    },
+    {
+        "company": "Sunpower",
+        "testimonial": {
+            "name": "Unknown Name",
+            "title": "Unknown Role",
+            "company": "Sunpower",
+            "URL": "https://www.confluent.io/customers/sunpower"
+        }
+    },
+    {
+        "company": "SumUp",
+        "testimonial": {
+            "name": "Vinod Chelladurai",
+            "title": "Principal Data Engineer",
+            "company": "SumUp",
+            "URL": "https://www.confluent.io/customers/sumup"
+        }
+    },
+    {
+        "company": "Solutions Architecture, SulAmérica",
+        "testimonial": {
+            "name": "Reynaldo Perez",
+            "title": "R&D Leader",
+            "company": "Solutions Architecture, SulAmérica",
+            "URL": "https://www.confluent.io/customers/sulamerica"
+        }
+    },
+    {
+        "company": "Storyblocks",
+        "testimonial": {
+            "name": "Charles DeVeas",
+            "title": "Director of Engineering",
+            "company": "Storyblocks",
+            "URL": "https://www.confluent.io/customers/storyblocks"
+        }
+    },
+    {
+        "company": "Singapore Exchange",
+        "testimonial": {
+            "name": "Sunarto Rahardja",
+            "title": "Head of Software Development",
+            "company": "Singapore Exchange",
+            "URL": "https://www.confluent.io/customers/singapore-exchange"
+        }
+    },
+    {
+        "company": "Threat Intelligence, SecurityScorecard",
+        "testimonial": {
+            "name": "Jared Smith, PhD",
+            "title": "Senior Director",
+            "company": "Threat Intelligence, SecurityScorecard",
+            "URL": "https://www.confluent.io/customers/securityscorecard"
+        }
+    },
+    {
+        "company": "Sencrop",
+        "testimonial": {
+            "name": "Mathieu Despriee",
+            "title": "Chief Technology Officer",
+            "company": "Sencrop",
+            "URL": "https://www.confluent.io/customers/sencrop"
+        }
+    },
+    {
+        "company": "Toolstation",
+        "testimonial": {
+            "name": "Rob Contreras",
+            "title": "Technical Architect",
+            "company": "Toolstation",
+            "URL": "https://www.confluent.io/customers/toolstation"
+        }
+    },
+    {
+        "company": "Trust Bank",
+        "testimonial": {
+            "name": "Rajay Rai",
+            "title": "Chief Information Officer",
+            "company": "Trust Bank",
+            "URL": "https://www.confluent.io/customers/trust-bank"
+        }
+    },
+    {
+        "company": "Vimeo",
+        "testimonial": {
+            "name": "Burton Williams",
+            "title": "Principal Data Platform Engineer",
+            "company": "Vimeo",
+            "URL": "https://www.confluent.io/customers/vimeo"
+        }
+    },
+    {
+        "company": "Virta",
+        "testimonial": {
+            "name": "Mostafa Aghajani",
+            "title": "Enterprise Architect",
+            "company": "Virta",
+            "URL": "https://www.confluent.io/customers/virta"
+        }
+    },
+    {
+        "company": "Zyte",
+        "testimonial": {
+            "name": "Ian Duffy",
+            "title": "DevOps Engineer",
+            "company": "Zyte",
+            "URL": "https://www.confluent.io/customers/zyte"
+        }
+    },
+    {
+        "company": "Ebay Korea",
+        "testimonial": {
+            "name": "Hudson Lee",
+            "title": "Leader of Platform Engineering",
+            "company": "Ebay Korea",
+            "URL": "https://www.confluent.io/customers/ebay-korea"
+        }
+    },
+    {
+        "company": "iFood",
+        "testimonial": {
+            "name": "Lucas Viecelli",
+            "title": "Database Reliability Engineer",
+            "company": "iFood",
+            "URL": "https://www.confluent.io/customers/ifood"
+        }
+    }
+]

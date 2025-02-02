@@ -1,0 +1,65 @@
+[
+    {
+        "company": "adesso",
+        "testimonial": {
+            "name": "Stefano Gioia",
+            "title": "Lead Portfolio & Architecture Management",
+            "company": "adesso",
+            "URL": "https://www.atlassian.com/customers"
+        }
+    },
+    {
+        "company": "Riverty",
+        "testimonial": {
+            "name": "Andrei Tuch",
+            "title": "Atlassian Product Owner",
+            "company": "Riverty",
+            "URL": "https://www.atlassian.com/customers"
+        }
+    },
+    {
+        "company": "Reddit",
+        "testimonial": {
+            "name": "Matt Chester",
+            "title": "Senior System Engineer",
+            "company": "Reddit",
+            "URL": "https://www.atlassian.com/customers"
+        }
+    },
+    {
+        "company": "Rivian",
+        "testimonial": {
+            "name": "Emily Novak",
+            "title": "Product Manager, Digital Workspace & Solutions",
+            "company": "Rivian",
+            "URL": "https://www.atlassian.com/customers"
+        }
+    },
+    {
+        "company": "United Airlines",
+        "testimonial": {
+            "name": "Oxana Trotsenko",
+            "title": "Former Chief of Staff of Digital Technology",
+            "company": "United Airlines",
+            "URL": "https://www.atlassian.com/customers"
+        }
+    },
+    {
+        "company": "Royal Caribbean",
+        "testimonial": {
+            "name": "Wais Mojaddidi",
+            "title": "Director of Agile Delivery, Global E-commerce",
+            "company": "Royal Caribbean",
+            "URL": "https://www.atlassian.com/customers"
+        }
+    },
+    {
+        "company": "Glovo",
+        "testimonial": {
+            "name": "Thomas Letemplier",
+            "title": "Global Head of IT",
+            "company": "Glovo",
+            "URL": "https://www.atlassian.com/customers"
+        }
+    }
+]

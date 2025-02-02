@@ -1,0 +1,245 @@
+[
+  {
+    "company": "PiCap",
+    "testimonial": {
+      "name": "Andres Murcia",
+      "title": "CTO",
+      "company": "PiCap",
+      "URL": "https://www.digitalocean.com/customers/picap"
+    }
+  },
+  {
+    "company": "ScraperAPI",
+    "testimonial": {
+      "name": "Zoltan Bettenbuk",
+      "title": "CTO",
+      "company": "ScraperAPI",
+      "URL": "https://www.digitalocean.com/customers/scraperapi-2"
+    }
+  },
+  {
+    "company": "Cyprus",
+    "testimonial": {
+      "name": "Yury Kamyshenko",
+      "title": "Head of R&D",
+      "company": "Cyprus",
+      "URL": "https://www.digitalocean.com/customers/tango"
+    }
+  },
+  {
+    "company": "Payload",
+    "testimonial": {
+      "name": "Elliot DeNolf",
+      "title": "CTO",
+      "company": "Payload",
+      "URL": "https://www.digitalocean.com/customers/payload"
+    }
+  },
+  {
+    "company": "Tech in Schools",
+    "testimonial": {
+      "name": "Ross Cohen",
+      "title": "Executive Director",
+      "company": "Tech in Schools",
+      "URL": "https://www.digitalocean.com/customers/tech-in-schools"
+    }
+  },
+  {
+    "company": "Younet",
+    "testimonial": {
+      "name": "Oleksandr Polishchuk",
+      "title": "CTO",
+      "company": "Younet",
+      "URL": "https://www.digitalocean.com/customers/younet"
+    }
+  },
+  {
+    "company": "Lugmety",
+    "testimonial": {
+      "name": "Ashleigh Watson",
+      "title": "CTO",
+      "company": "Lugmety",
+      "URL": "https://www.digitalocean.com/customers/lugmety"
+    }
+  },
+  {
+    "company": "Ersilia",
+    "testimonial": {
+      "name": "Miquel Duran-Frigola",
+      "title": "co-founder",
+      "company": "Ersilia",
+      "URL": "https://www.digitalocean.com/customers/ersilia"
+    }
+  },
+  {
+    "company": "Deep Focus",
+    "testimonial": {
+      "name": "Robbie Kohli",
+      "title": "CEO",
+      "company": "Deep Focus",
+      "URL": "https://www.digitalocean.com/customers/deep-focus"
+    }
+  },
+  {
+    "company": "Hack The Box\nCTO",
+    "testimonial": {
+      "name": "James Hooker",
+      "title": "CTO",
+      "company": "Hack The Box\nCTO",
+      "URL": "https://www.digitalocean.com/customers/hack-the-box"
+    }
+  },
+  {
+    "company": "Atom Learning\nCTO",
+    "testimonial": {
+      "name": "Tim Osborne",
+      "title": "CTO",
+      "company": "Atom Learning\nCTO",
+      "URL": "https://www.digitalocean.com/customers/atom-learning"
+    }
+  },
+  {
+    "company": "Zuar\nCTO",
+    "testimonial": {
+      "name": "Matthew Laue",
+      "title": "CTO",
+      "company": "Zuar\nCTO",
+      "URL": "https://www.digitalocean.com/customers/zuar"
+    }
+  },
+  {
+    "company": "Vuukle",
+    "testimonial": {
+      "name": "Ravi Mittal",
+      "title": "CEO Vuukle\nCEO",
+      "company": "Vuukle",
+      "URL": "https://www.digitalocean.com/customers/vuukle"
+    }
+  },
+  {
+    "company": "Stablepoint",
+    "testimonial": {
+      "name": "CTO",
+      "title": "Dom Taylor\nCTO",
+      "company": "Stablepoint",
+      "URL": "https://www.digitalocean.com/customers/stablepoint"
+    }
+  },
+  {
+    "company": "Cloudways",
+    "testimonial": {
+      "name": "Aaqib Gadit",
+      "title": "Cofounder & CEO\nCofounder & CEO",
+      "company": "Cloudways",
+      "URL": "https://www.digitalocean.com/customers/cloudways"
+    }
+  },
+  {
+    "company": "efelle",
+    "testimonial": {
+      "name": "Systems Admin",
+      "title": "Cameron Van Orman\nSystems Admin",
+      "company": "efelle",
+      "URL": "https://www.digitalocean.com/customers/efelle"
+    }
+  },
+  {
+    "company": "Crowd Content",
+    "testimonial": {
+      "name": "Eric Hoppe",
+      "title": "Director of Marketing\nDirector of Marketing",
+      "company": "Crowd Content",
+      "URL": "https://www.digitalocean.com/customers/crowd-content"
+    }
+  },
+  {
+    "company": "RouteTrust",
+    "testimonial": {
+      "name": "David Shifley",
+      "title": "CTO of RouteTrust\nCTO",
+      "company": "RouteTrust",
+      "URL": "https://www.digitalocean.com/customers/routetrust"
+    }
+  },
+  {
+    "company": "Podiant",
+    "testimonial": {
+      "name": "Mark Steadman",
+      "title": "Founder and CEO of Podiant\nFounder and CEO",
+      "company": "Podiant",
+      "URL": "https://www.digitalocean.com/customers/podiant"
+    }
+  },
+  {
+    "company": "Content Ignite",
+    "testimonial": {
+      "name": "Jamie Druce",
+      "title": "Senior Web Developer\nSenior Web Developer",
+      "company": "Content Ignite",
+      "URL": "https://www.digitalocean.com/customers/content-ignite"
+    }
+  },
+  {
+    "company": "Ghost",
+    "testimonial": {
+      "name": "Sebastian Gierlinger",
+      "title": "Senior DevOps Engineer\nSenior DevOps Engineer",
+      "company": "Ghost",
+      "URL": "https://www.digitalocean.com/customers/ghost"
+    }
+  },
+  {
+    "company": "Urlbox",
+    "testimonial": {
+      "name": "Chris Roebuck",
+      "title": "Founder and CEO of Urlbox\nFounder and CEO",
+      "company": "Urlbox",
+      "URL": "https://www.digitalocean.com/customers/urlbox"
+    }
+  },
+  {
+    "company": "Parabol",
+    "testimonial": {
+      "name": "Jordan Husney",
+      "title": "Cofounder & CEO of Parabol\nCofounder & CEO",
+      "company": "Parabol",
+      "URL": "https://www.digitalocean.com/customers/parabol"
+    }
+  },
+  {
+    "company": "Cofounder of Publitio\nCEO/CTO",
+    "testimonial": {
+      "name": "Vujadin Divjak",
+      "title": "CEO/CTO",
+      "company": "Cofounder of Publitio\nCEO/CTO",
+      "URL": "https://www.digitalocean.com/customers/publitio"
+    }
+  },
+  {
+    "company": "Reclaim Hosting",
+    "testimonial": {
+      "name": "Jim Groom",
+      "title": "Cofounder\nCofounder",
+      "company": "Reclaim Hosting",
+      "URL": "https://www.digitalocean.com/customers/reclaim-hosting"
+    }
+  },
+  {
+    "company": ".io",
+    "testimonial": {
+      "name": "Den Golotyuk",
+      "title": "Engineer\nEngineer",
+      "company": ".io",
+      "URL": "https://www.digitalocean.com/customers/io"
+    }
+  },
+  {
+    "company": "Rockerbox",
+    "testimonial": {
+      "name": "Rick O'Toole",
+      "title": "Cofounder and CTO\nCofounder and CTO",
+      "company": "Rockerbox",
+      "URL": "https://www.digitalocean.com/customers/rockerbox"
+    }
+  }
+]

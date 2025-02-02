@@ -1,0 +1,596 @@
+[
+    {
+        "company": "Snyk",
+        "testimonial": {
+            "name": "Zoé",
+            "title": "Software Engineer at Snyk",
+            "company": "Snyk",
+            "URL": "https://circleci.com/case-studies/snyk/"
+        }
+    },
+    {
+        "company": "17live",
+        "testimonial": {
+            "name": "Rick Lin",
+            "title": "Site Reliability Engineer at 17LIVE",
+            "company": "17live",
+            "URL": "https://circleci.com/case-studies/17live/"
+        }
+    },
+    {
+        "company": "Adwerx",
+        "testimonial": {
+            "name": "Cole Faloon",
+            "title": "Infrastructure Engineer at Adwerx",
+            "company": "Adwerx",
+            "URL": "https://circleci.com/case-studies/adwerx/"
+        }
+    },
+    {
+        "company": "Avvir",
+        "testimonial": {
+            "name": "Trevor Sanders",
+            "title": "Machine Learning Engineer at Avvir",
+            "company": "Avvir",
+            "URL": "https://circleci.com/case-studies/avvir/"
+        }
+    },
+    {
+        "company": "Axios",
+        "testimonial": {
+            "name": "Nicholas Duffy",
+            "title": "Engineering Manager at Axios",
+            "company": "Axios",
+            "URL": "https://circleci.com/case-studies/axios/"
+        }
+    },
+    {
+        "company": "Baracoda",
+        "testimonial": {
+            "name": "Timothy Nibeaudeau",
+            "title": "Head of Software Engineering at Baracoda",
+            "company": "Baracoda",
+            "URL": "https://circleci.com/case-studies/baracoda/"
+        }
+    },
+    {
+        "company": "Bolt",
+        "testimonial": {
+            "name": "Roopak Venkatakrishnan",
+            "title": "Software Engineer at Bolt",
+            "company": "Bolt",
+            "URL": "https://circleci.com/case-studies/bolt/"
+        }
+    },
+    {
+        "company": "Branch",
+        "testimonial": {
+            "name": "Javeria Khan",
+            "title": "Systems Engineer at Branch",
+            "company": "Branch",
+            "URL": "https://circleci.com/case-studies/branch/"
+        }
+    },
+    {
+        "company": "Brandfolder",
+        "testimonial": {
+            "name": "Jim Hanifan",
+            "title": "Head of Product at Brandfolder",
+            "company": "Brandfolder",
+            "URL": "https://circleci.com/case-studies/brandfolder/"
+        }
+    },
+    {
+        "company": "Brikl",
+        "testimonial": {
+            "name": "Tobias Meixner",
+            "title": "Co-founder and CTO at BRIKL",
+            "company": "Brikl",
+            "URL": "https://circleci.com/case-studies/brikl/"
+        }
+    },
+    {
+        "company": "Cinnamon",
+        "testimonial": {
+            "name": "Sony Huynh",
+            "title": "DevSecOps Lead at Cinnamon AI",
+            "company": "Cinnamon",
+            "URL": "https://circleci.com/case-studies/cinnamon/"
+        }
+    },
+    {
+        "company": "Clickmechanic",
+        "testimonial": {
+            "name": "Kat Crichton-Seager",
+            "title": "Head of Engineering at ClickMechanic",
+            "company": "Clickmechanic",
+            "URL": "https://circleci.com/case-studies/clickmechanic/"
+        }
+    },
+    {
+        "company": "Clockwise",
+        "testimonial": {
+            "name": "Nick Westrum",
+            "title": "Automation Engineer at Clockwise",
+            "company": "Clockwise",
+            "URL": "https://circleci.com/case-studies/clockwise/"
+        }
+    },
+    {
+        "company": "Contentful",
+        "testimonial": {
+            "name": "James Bourne",
+            "title": "Software Engineer at Contentful",
+            "company": "Contentful",
+            "URL": "https://circleci.com/case-studies/contentful/"
+        }
+    },
+    {
+        "company": "Corewide",
+        "testimonial": {
+            "name": "Denis Prysukhin",
+            "title": "Co-founder and CTO at Corewide",
+            "company": "Corewide",
+            "URL": "https://circleci.com/case-studies/corewide/"
+        }
+    },
+    {
+        "company": "Cruise",
+        "testimonial": {
+            "name": "Adrian MacNeil",
+            "title": "Director of Infrastructure Engineering at Cruise",
+            "company": "Cruise",
+            "URL": "https://circleci.com/case-studies/cruise/"
+        }
+    },
+    {
+        "company": "Curative",
+        "testimonial": {
+            "name": "Colton Pierson",
+            "title": "Senior Software Engineer at Curative",
+            "company": "Curative",
+            "URL": "https://circleci.com/case-studies/curative/"
+        }
+    },
+    {
+        "company": "Dollar shave club",
+        "testimonial": {
+            "name": "Jason Bosco",
+            "title": "VP of Engineering at Dollar Shave Club",
+            "company": "Dollar shave club",
+            "URL": "https://circleci.com/case-studies/dollar-shave-club/"
+        }
+    },
+    {
+        "company": "Droppe",
+        "testimonial": {
+            "name": "Henrik Helenius",
+            "title": "Co-founder at Droppe",
+            "company": "Droppe",
+            "URL": "https://circleci.com/case-studies/droppe/"
+        }
+    },
+    {
+        "company": "Eventbrite",
+        "testimonial": {
+            "name": "Steven Reynolds",
+            "title": "Principal Engineer at Eventbrite",
+            "company": "Eventbrite",
+            "URL": "https://circleci.com/case-studies/eventbrite/"
+        }
+    },
+    {
+        "company": "Fastlane",
+        "testimonial": {
+            "name": "Hemal Shah",
+            "title": "Product Manager at fastlane",
+            "company": "Fastlane",
+            "URL": "https://circleci.com/case-studies/fastlane/"
+        }
+    },
+    {
+        "company": "Fastlane neuralegion",
+        "testimonial": {
+            "name": "Mike Mclaren",
+            "title": "CTO at Fastlane",
+            "company": "Fastlane neuralegion",
+            "URL": "https://circleci.com/case-studies/fastlane-neuralegion/"
+        }
+    },
+    {
+        "company": "Firstlight",
+        "testimonial": {
+            "name": "Jonathan Shimwell",
+            "title": "Lead Scientist at First Light Fusion",
+            "company": "Firstlight",
+            "URL": "https://circleci.com/case-studies/firstlight/"
+        }
+    },
+    {
+        "company": "Fuse autotech",
+        "testimonial": {
+            "name": "Johnny Mor",
+            "title": "Director of Engineering at FUSE Autotech",
+            "company": "Fuse autotech",
+            "URL": "https://circleci.com/case-studies/fuse-autotech/"
+        }
+    },
+    {
+        "company": "Gatsbyjs",
+        "testimonial": {
+            "name": "Dustin Schau",
+            "title": "Software Engineer at GatsbyJS",
+            "company": "Gatsbyjs",
+            "URL": "https://circleci.com/case-studies/gatsbyjs/"
+        }
+    },
+    {
+        "company": "Gospotcheck",
+        "testimonial": {
+            "name": "Nick Wilson",
+            "title": "VP of Technical Operations at GoSpotCheck",
+            "company": "Gospotcheck",
+            "URL": "https://circleci.com/case-studies/gospotcheck/"
+        }
+    },
+    {
+        "company": "Greenhouse",
+        "testimonial": {
+            "name": "Josh Bazemore",
+            "title": "Engineering Manager at Greenhouse",
+            "company": "Greenhouse",
+            "URL": "https://circleci.com/case-studies/greenhouse/"
+        }
+    },
+    {
+        "company": "Gresham technologies",
+        "testimonial": {
+            "name": "Marc Binck",
+            "title": "Head of Cloud Services at Gresham Technologies",
+            "company": "Gresham technologies",
+            "URL": "https://circleci.com/case-studies/gresham-technologies/"
+        }
+    },
+    {
+        "company": "Ground x",
+        "testimonial": {
+            "name": "Austin Brown",
+            "title": "DevOps Engineer at Ground X",
+            "company": "Ground x",
+            "URL": "https://circleci.com/case-studies/ground-x/"
+        }
+    },
+    {
+        "company": "Gtlogic",
+        "testimonial": {
+            "name": "Rawan Moukalled",
+            "title": "Senior Front End Engineer at gtlogic",
+            "company": "Gtlogic",
+            "URL": "https://circleci.com/case-studies/gtlogic/"
+        }
+    },
+    {
+        "company": "Healthlabs",
+        "testimonial": {
+            "name": "Donald Tyler",
+            "title": "DevOps Technical Lead at HealthLabs.com",
+            "company": "Healthlabs",
+            "URL": "https://circleci.com/case-studies/healthlabs/"
+        }
+    },
+    {
+        "company": "I2",
+        "testimonial": {
+            "name": "Anthony Carr-Smith",
+            "title": "Software Development Manager at i2",
+            "company": "I2",
+            "URL": "https://circleci.com/case-studies/i2/"
+        }
+    },
+    {
+        "company": "Incident io",
+        "testimonial": {
+            "name": "Isaac Seymour",
+            "title": "Product Engineer at incident.io",
+            "company": "Incident io",
+            "URL": "https://circleci.com/case-studies/incident-io/"
+        }
+    },
+    {
+        "company": "Joy",
+        "testimonial": {
+            "name": "Madhur Joshi",
+            "title": "Vice President of Engineering at Joy",
+            "company": "Joy",
+            "URL": "https://circleci.com/case-studies/joy/"
+        }
+    },
+    {
+        "company": "Kaizen platform",
+        "testimonial": {
+            "name": "Toshimasa Ishibashi",
+            "title": "Co-founder and CTO at Kaizen Platform",
+            "company": "Kaizen platform",
+            "URL": "https://circleci.com/case-studies/kaizen-platform/"
+        }
+    },
+    {
+        "company": "Karat",
+        "testimonial": {
+            "name": "Aram Greenman",
+            "title": "Software Engineer at Karat",
+            "company": "Karat",
+            "URL": "https://circleci.com/case-studies/karat/"
+        }
+    },
+    {
+        "company": "Klara",
+        "testimonial": {
+            "name": "Valentin Ranshakov",
+            "title": "QA Lead at Klara",
+            "company": "Klara",
+            "URL": "https://circleci.com/case-studies/klara/"
+        }
+    },
+    {
+        "company": "Launchdarkly",
+        "testimonial": {
+            "name": "Andrew Brown",
+            "title": "Senior Software Engineer at LaunchDarkly",
+            "company": "Launchdarkly",
+            "URL": "https://circleci.com/case-studies/launchdarkly/"
+        }
+    },
+    {
+        "company": "Line",
+        "testimonial": {
+            "name": "Sodai Kitamura",
+            "title": "Data Science and Engineering at LINE",
+            "company": "Line",
+            "URL": "https://circleci.com/case-studies/line/"
+        }
+    },
+    {
+        "company": "Lumigo",
+        "testimonial": {
+            "name": "Ido Golan",
+            "title": "Software Developer at Lumigo",
+            "company": "Lumigo",
+            "URL": "https://circleci.com/case-studies/lumigo/"
+        }
+    },
+    {
+        "company": "Maze",
+        "testimonial": {
+            "name": "Thomas Groutars",
+            "title": "Staff Software Engineer at Maze",
+            "company": "Maze",
+            "URL": "https://circleci.com/case-studies/maze/"
+        }
+    },
+    {
+        "company": "Moshi",
+        "testimonial": {
+            "name": "Enzo Belli",
+            "title": "Senior Android Developer at Moshi",
+            "company": "Moshi",
+            "URL": "https://circleci.com/case-studies/moshi/"
+        }
+    },
+    {
+        "company": "Netguru",
+        "testimonial": {
+            "name": "Adam Nowak",
+            "title": "Software Development Practice Lead at Netguru",
+            "company": "Netguru",
+            "URL": "https://circleci.com/case-studies/netguru/"
+        }
+    },
+    {
+        "company": "Outfit7",
+        "testimonial": {
+            "name": "Matic Miklavčič",
+            "title": "DevOps Engineer at Outfit7",
+            "company": "Outfit7",
+            "URL": "https://circleci.com/case-studies/outfit7/"
+        }
+    },
+    {
+        "company": "Outreach",
+        "testimonial": {
+            "name": "Jon Anderson",
+            "title": "Senior Software Engineer at Outreach",
+            "company": "Outreach",
+            "URL": "https://circleci.com/case-studies/outreach/"
+        }
+    },
+    {
+        "company": "Pantheon",
+        "testimonial": {
+            "name": "Steve Persch",
+            "title": "Agency and Community Engineer at Pantheon",
+            "company": "Pantheon",
+            "URL": "https://circleci.com/case-studies/pantheon/"
+        }
+    },
+    {
+        "company": "Pingboard",
+        "testimonial": {
+            "name": "Rob Eanes",
+            "title": "CTO at Pingboard",
+            "company": "Pingboard",
+            "URL": "https://circleci.com/case-studies/pingboard/"
+        }
+    },
+    {
+        "company": "Pitch",
+        "testimonial": {
+            "name": "Adam Renklint",
+            "title": "Co-founder and CTO at Pitch",
+            "company": "Pitch",
+            "URL": "https://circleci.com/case-studies/pitch/"
+        }
+    },
+    {
+        "company": "Policyme",
+        "testimonial": {
+            "name": "Vipul Srivastava",
+            "title": "Software Engineering Manager at PolicyMe",
+            "company": "Policyme",
+            "URL": "https://circleci.com/case-studies/policyme/"
+        }
+    },
+    {
+        "company": "Poplog",
+        "testimonial": {
+            "name": "Stephen Leach",
+            "title": "Scrum Master at Poplog",
+            "company": "Poplog",
+            "URL": "https://circleci.com/case-studies/poplog/"
+        }
+    },
+    {
+        "company": "Procore",
+        "testimonial": {
+            "name": "Kyle Espinola",
+            "title": "Senior Software Engineer Team Lead at Procore",
+            "company": "Procore",
+            "URL": "https://circleci.com/case-studies/procore/"
+        }
+    },
+    {
+        "company": "Procurify",
+        "testimonial": {
+            "name": "Fergus McDonald",
+            "title": "Senior Site Reliability Engineer at Procurify",
+            "company": "Procurify",
+            "URL": "https://circleci.com/case-studies/procurify/"
+        }
+    },
+    {
+        "company": "Pytorch",
+        "testimonial": {
+            "name": "Eric Nakagawa",
+            "title": "Head of Open Source at PyTorch",
+            "company": "Pytorch",
+            "URL": "https://circleci.com/case-studies/pytorch/"
+        }
+    },
+    {
+        "company": "Repairpal",
+        "testimonial": {
+            "name": "Nick Roosevelt",
+            "title": "Senior Software Engineer at RepairPal",
+            "company": "Repairpal",
+            "URL": "https://circleci.com/case-studies/repairpal/"
+        }
+    },
+    {
+        "company": "Returnalyze",
+        "testimonial": {
+            "name": "Will Plourde",
+            "title": "CTO at Returnalyze",
+            "company": "Returnalyze",
+            "URL": "https://circleci.com/case-studies/returnalyze/"
+        }
+    },
+    {
+        "company": "Rollbar",
+        "testimonial": {
+            "name": "Travis Mattera",
+            "title": "Senior Site Reliability Engineer at Rollbar",
+            "company": "Rollbar",
+            "URL": "https://circleci.com/case-studies/rollbar/"
+        }
+    },
+    {
+        "company": "Salecycle",
+        "testimonial": {
+            "name": "Lukas Brusokas",
+            "title": "Senior AWS Engineer at SaleCycle",
+            "company": "Salecycle",
+            "URL": "https://circleci.com/case-studies/salecycle/"
+        }
+    },
+    {
+        "company": "Sevenrooms",
+        "testimonial": {
+            "name": "Jeremy Pfund",
+            "title": "Principal Software Engineer at SevenRooms",
+            "company": "Sevenrooms",
+            "URL": "https://circleci.com/case-studies/sevenrooms/"
+        }
+    },
+    {
+        "company": "Solarwinds",
+        "testimonial": {
+            "name": "Robert Zahradníček",
+            "title": "Senior Staff Site Reliability Engineer at SolarWinds",
+            "company": "Solarwinds",
+            "URL": "https://circleci.com/case-studies/solarwinds/"
+        }
+    },
+    {
+        "company": "Stack builders",
+        "testimonial": {
+            "name": "Carlos Villavicencio",
+            "title": "Software Developer at Stack Builders",
+            "company": "Stack builders",
+            "URL": "https://circleci.com/case-studies/stack-builders/"
+        }
+    },
+    {
+        "company": "Tanda",
+        "testimonial": {
+            "name": "Adam Lyons",
+            "title": "VP of Engineering at Tanda",
+            "company": "Tanda",
+            "URL": "https://circleci.com/case-studies/tanda/"
+        }
+    },
+    {
+        "company": "Tessian",
+        "testimonial": {
+            "name": "David Barham",
+            "title": "Principal Engineer at Tessian",
+            "company": "Tessian",
+            "URL": "https://circleci.com/case-studies/tessian/"
+        }
+    },
+    {
+        "company": "Toss",
+        "testimonial": {
+            "name": "Sojin Park",
+            "title": "Frontend Developer at Toss",
+            "company": "Toss",
+            "URL": "https://circleci.com/case-studies/toss/"
+        }
+    },
+    {
+        "company": "Travelex",
+        "testimonial": {
+            "name": "Mayank Goswami",
+            "title": "Assistant Vice President at Travelex",
+            "company": "Travelex",
+            "URL": "https://circleci.com/case-studies/travelex/"
+        }
+    },
+    {
+        "company": "Tunaiku",
+        "testimonial": {
+            "name": "Ahmad Fikri",
+            "title": "Head of Platform at Tunaiku",
+            "company": "Tunaiku",
+            "URL": "https://circleci.com/case-studies/tunaiku/"
+        }
+    },
+    {
+        "company": "Voiceflow",
+        "testimonial": {
+            "name": "Xavier Portilla Edo",
+            "title": "Infrastructure Team Lead at Voiceflow",
+            "company": "Voiceflow",
+            "URL": "https://circleci.com/case-studies/voiceflow/"
+        }
+    }
+]
